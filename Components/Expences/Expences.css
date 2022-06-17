@@ -1,0 +1,15 @@
+.expences {
+  padding: 1rem;
+  background-color: gray;
+  margin: 2rem;
+  width: 50rem;
+  max-width: 90%;
+}
+
+.expences1 {
+  border-radius: 10px;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  background-color: gray;
+  padding: 20px;
+  margin: 4rem;
+}
